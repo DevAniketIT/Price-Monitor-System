@@ -38,7 +38,7 @@ A comprehensive, production-ready price monitoring system that tracks product pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/price-monitor-system.git
+   git clone https://github.com/DevAniketIT/Price-Monitor-System.git
    cd price-monitor-system
    ```
 
@@ -352,9 +352,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/price-monitor-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/price-monitor-system/discussions)
-- **Email**: your-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/DevAniketIT/Price-Monitor-System/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/DevAniketIT/Price-Monitor-System/discussions)
+- **Email**: DevAniketIT@example.com
 
 ## 🎯 Roadmap
 
