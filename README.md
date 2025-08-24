@@ -1,7 +1,7 @@
 # 📊 Professional Price Monitoring System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Educational](https://img.shields.io/badge/License-Educational-orange.svg)](LICENSE)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A comprehensive, production-ready price monitoring system that tracks product prices across multiple e-commerce platforms with automated alerts, historical analysis, and beautiful visualizations.
@@ -354,7 +354,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/DevAniketIT/Price-Monitor-System/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/DevAniketIT/Price-Monitor-System/discussions)
-- **Email**: DevAniketIT@example.com
+- **Developer**: Aniket Kumar (DevAniketIT)
+- **Email**: DevAniketIT@gmail.com
 
 ## 🎯 Roadmap
 
@@ -368,6 +369,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the Python community**
+**Built with ❤️ by Aniket Kumar - Turning ideas into scalable solutions**
 
-*This project demonstrates professional Python development practices and is perfect for portfolio showcasing, freelance projects, or enterprise applications.*
+*Developer: Aniket Kumar (DevAniketIT) - A passionate Python developer specializing in automation, web scraping, and enterprise solutions.*
+
+*This project demonstrates professional Python development practices and showcases advanced skills in system architecture, API development, and business automation.*

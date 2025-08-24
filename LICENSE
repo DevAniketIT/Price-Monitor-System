@@ -1,21 +1,63 @@
-MIT License
+EDUCATIONAL LICENSE WITH COMMERCIAL RESTRICTIONS
 
-Copyright (c) 2025 Aniket - Price Monitor System
+Copyright (c) 2025 Aniket Kumar (DevAniketIT) - Price Monitor System
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Developer: Aniket Kumar
+GitHub: DevAniketIT
+Email: DevAniketIT@gmail.com
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+PURPOSE AND SCOPE:
+This software is developed for EDUCATIONAL PURPOSES and portfolio demonstration.
+It showcases professional Python development practices, system architecture,
+and enterprise-grade coding standards.
 
+PERMISSIONS GRANTED:
+✅ Educational Use: Students, researchers, and learners may use this software
+   for educational purposes, learning, and academic projects.
+✅ Personal Projects: Individuals may use this software for personal,
+   non-commercial projects and experimentation.
+✅ Code Study: Developers may study the code structure, architecture,
+   and implementation patterns for learning purposes.
+✅ Portfolio Review: Employers and clients may review this code for
+   evaluation of the developer's skills and capabilities.
+
+RESTRICTIONS:
+❌ Commercial Use: You may NOT use this software for commercial purposes,
+   including but not limited to:
+   - Selling the software or derivative works
+   - Using in commercial applications or services
+   - Incorporating into products for sale
+   - Offering as a paid service
+
+❌ Enterprise Deployment: You may NOT deploy this software in enterprise
+   or production environments without explicit written permission.
+
+❌ Redistribution: You may NOT redistribute this software under different
+   licensing terms without permission.
+
+COMMERCIAL LICENSE REQUIRED:
+For commercial use, enterprise deployment, or production applications,
+you must obtain a commercial license from the developer.
+
+Contact: DevAniketIT@gmail.com for commercial licensing inquiries.
+
+CONDITIONS:
+1. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+2. Any use of this software must include attribution to Aniket Kumar (DevAniketIT).
+3. This software is provided for educational and demonstration purposes.
+4. Users must respect the licensing terms and restrictions.
+
+DISCLAIMER:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For questions about licensing, permissions, or commercial use,
+please contact: DevAniketIT@gmail.com
+
+---
+Developed with ❤️ by Aniket Kumar - Turning ideas into scalable solutions

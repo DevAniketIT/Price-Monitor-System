@@ -1,5 +1,16 @@
-# Days 5-7: Complete Price Monitoring System
+# Professional Price Monitoring System
+# Created by: Aniket Kumar (DevAniketIT)
+# GitHub: https://github.com/DevAniketIT/Price-Monitor-System
+# Email: DevAniketIT@gmail.com
+#
+# EDUCATIONAL LICENSE - COMMERCIAL USE REQUIRES PERMISSION
+# This software is for educational and portfolio demonstration purposes.
+# For commercial use, enterprise deployment, or production applications,
+# contact DevAniketIT@gmail.com for licensing.
+#
 # Professional-grade price tracker for Amazon/Flipkart products
+# Demonstrates advanced Python skills in web scraping, database design,
+# API development, and enterprise architecture.
 
 import requests
 from bs4 import BeautifulSoup

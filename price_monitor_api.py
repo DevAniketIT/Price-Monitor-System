@@ -1,5 +1,15 @@
-# Price Monitor REST API with FastAPI
+# Professional Price Monitor REST API with FastAPI
+# Created by: Aniket Kumar (DevAniketIT)
+# GitHub: https://github.com/DevAniketIT/Price-Monitor-System
+# Email: DevAniketIT@gmail.com
+#
+# EDUCATIONAL LICENSE - COMMERCIAL USE REQUIRES PERMISSION
+# This software is for educational and portfolio demonstration purposes.
+# For commercial use, enterprise deployment, or production applications,
+# contact DevAniketIT@gmail.com for licensing.
+#
 # Professional API for price monitoring system with PostgreSQL support
+# Demonstrates advanced skills in FastAPI, async programming, and API design.
 
 from fastapi import FastAPI, HTTPException, Depends, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
