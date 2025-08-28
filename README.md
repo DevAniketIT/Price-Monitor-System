@@ -355,7 +355,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: [GitHub Issues](https://github.com/DevAniketIT/Price-Monitor-System/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/DevAniketIT/Price-Monitor-System/discussions)
 - **Developer**: Aniket Kumar (DevAniketIT)
-- **Email**: DevAniketIT@gmail.com
+- **Email**: aniket.kumar.devpro@gmail.com
 
 ## 🎯 Roadmap
 
